@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    border: 10px inset red;
+    font-family: shadow;
+}
+header a{
+    color: white;
+    background-color: navy
+}
+header img{
+    width: 400px;
+    height: 400px;
+}
+Header a{
+    color:  purple;
+    background-color: cyan
+}
+.sus{
+    color: red;
+    background-color: black;
+}
